@@ -1,0 +1,88 @@
+C:\Users\ferhat\Desktop\123\ex1\obj\Debug\net6.0-windows\ex1.csproj.AssemblyReference.cache
+C:\Users\ferhat\Desktop\123\ex1\obj\Debug\net6.0-windows\ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhat\Desktop\123\ex1\obj\Debug\net6.0-windows\ex1.AssemblyInfoInputs.cache
+C:\Users\ferhat\Desktop\123\ex1\obj\Debug\net6.0-windows\ex1.AssemblyInfo.cs
+C:\Users\ferhat\Desktop\123\ex1\obj\Debug\net6.0-windows\ex1.csproj.CoreCompileInputs.cache
+C:\Users\ferhat\Desktop\123\ex1\bin\Debug\net6.0-windows\ex1.exe
+C:\Users\ferhat\Desktop\123\ex1\bin\Debug\net6.0-windows\ex1.deps.json
+C:\Users\ferhat\Desktop\123\ex1\bin\Debug\net6.0-windows\ex1.runtimeconfig.json
+C:\Users\ferhat\Desktop\123\ex1\bin\Debug\net6.0-windows\ex1.dll
+C:\Users\ferhat\Desktop\123\ex1\bin\Debug\net6.0-windows\ref\ex1.dll
+C:\Users\ferhat\Desktop\123\ex1\bin\Debug\net6.0-windows\ex1.pdb
+C:\Users\ferhat\Desktop\123\ex1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ferhat\Desktop\123\ex1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ferhat\Desktop\123\ex1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ferhat\Desktop\123\ex1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ferhat\Desktop\123\ex1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ferhat\Desktop\123\ex1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ferhat\Desktop\123\ex1\obj\Debug\net6.0-windows\ex1.csproj.CopyComplete
+C:\Users\ferhat\Desktop\123\ex1\obj\Debug\net6.0-windows\ex1.dll
+C:\Users\ferhat\Desktop\123\ex1\obj\Debug\net6.0-windows\ref\ex1.dll
+C:\Users\ferhat\Desktop\123\ex1\obj\Debug\net6.0-windows\ex1.pdb
+C:\Users\ferhat\Desktop\123\ex1\obj\Debug\net6.0-windows\ex1.genruntimeconfig.cache
+E:\ex1\bin\Debug\net6.0-windows\ex1.exe
+E:\ex1\bin\Debug\net6.0-windows\ex1.deps.json
+E:\ex1\bin\Debug\net6.0-windows\ex1.runtimeconfig.json
+E:\ex1\bin\Debug\net6.0-windows\ex1.dll
+E:\ex1\bin\Debug\net6.0-windows\ref\ex1.dll
+E:\ex1\bin\Debug\net6.0-windows\ex1.pdb
+E:\ex1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\ex1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\ex1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\ex1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\ex1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ex1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ex1\obj\Debug\net6.0-windows\ex1.csproj.AssemblyReference.cache
+E:\ex1\obj\Debug\net6.0-windows\ex1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ex1\obj\Debug\net6.0-windows\ex1.AssemblyInfoInputs.cache
+E:\ex1\obj\Debug\net6.0-windows\ex1.AssemblyInfo.cs
+E:\ex1\obj\Debug\net6.0-windows\ex1.csproj.CoreCompileInputs.cache
+E:\ex1\obj\Debug\net6.0-windows\ex1.csproj.CopyComplete
+E:\ex1\obj\Debug\net6.0-windows\ex1.dll
+E:\ex1\obj\Debug\net6.0-windows\ref\ex1.dll
+E:\ex1\obj\Debug\net6.0-windows\ex1.pdb
+E:\ex1\obj\Debug\net6.0-windows\ex1.genruntimeconfig.cache
+C:\Users\ferhat\Desktop\ex1\bin\Debug\net6.0-windows\ex1.exe
+C:\Users\ferhat\Desktop\ex1\bin\Debug\net6.0-windows\ex1.deps.json
+C:\Users\ferhat\Desktop\ex1\bin\Debug\net6.0-windows\ex1.runtimeconfig.json
+C:\Users\ferhat\Desktop\ex1\bin\Debug\net6.0-windows\ex1.dll
+C:\Users\ferhat\Desktop\ex1\bin\Debug\net6.0-windows\ref\ex1.dll
+C:\Users\ferhat\Desktop\ex1\bin\Debug\net6.0-windows\ex1.pdb
+C:\Users\ferhat\Desktop\ex1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ferhat\Desktop\ex1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ferhat\Desktop\ex1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ferhat\Desktop\ex1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ferhat\Desktop\ex1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ferhat\Desktop\ex1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ferhat\Desktop\ex1\obj\Debug\net6.0-windows\ex1.csproj.AssemblyReference.cache
+C:\Users\ferhat\Desktop\ex1\obj\Debug\net6.0-windows\ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhat\Desktop\ex1\obj\Debug\net6.0-windows\ex1.AssemblyInfoInputs.cache
+C:\Users\ferhat\Desktop\ex1\obj\Debug\net6.0-windows\ex1.AssemblyInfo.cs
+C:\Users\ferhat\Desktop\ex1\obj\Debug\net6.0-windows\ex1.csproj.CoreCompileInputs.cache
+C:\Users\ferhat\Desktop\ex1\obj\Debug\net6.0-windows\ex1.csproj.CopyComplete
+C:\Users\ferhat\Desktop\ex1\obj\Debug\net6.0-windows\ex1.dll
+C:\Users\ferhat\Desktop\ex1\obj\Debug\net6.0-windows\ref\ex1.dll
+C:\Users\ferhat\Desktop\ex1\obj\Debug\net6.0-windows\ex1.pdb
+C:\Users\ferhat\Desktop\ex1\obj\Debug\net6.0-windows\ex1.genruntimeconfig.cache
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\ex1\bin\Debug\net6.0-windows\ex1.exe
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\ex1\bin\Debug\net6.0-windows\ex1.deps.json
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\ex1\bin\Debug\net6.0-windows\ex1.runtimeconfig.json
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\ex1\bin\Debug\net6.0-windows\ex1.dll
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\ex1\bin\Debug\net6.0-windows\ref\ex1.dll
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\ex1\bin\Debug\net6.0-windows\ex1.pdb
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\ex1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\ex1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\ex1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\ex1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\ex1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\ex1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\ex1\obj\Debug\net6.0-windows\ex1.csproj.AssemblyReference.cache
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\ex1\obj\Debug\net6.0-windows\ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\ex1\obj\Debug\net6.0-windows\ex1.AssemblyInfoInputs.cache
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\ex1\obj\Debug\net6.0-windows\ex1.AssemblyInfo.cs
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\ex1\obj\Debug\net6.0-windows\ex1.csproj.CoreCompileInputs.cache
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\ex1\obj\Debug\net6.0-windows\ex1.csproj.CopyComplete
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\ex1\obj\Debug\net6.0-windows\ex1.dll
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\ex1\obj\Debug\net6.0-windows\ref\ex1.dll
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\ex1\obj\Debug\net6.0-windows\ex1.pdb
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\ex1\obj\Debug\net6.0-windows\ex1.genruntimeconfig.cache
